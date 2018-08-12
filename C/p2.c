@@ -1,3 +1,6 @@
+
+//this program is about the weight of boys
+
 #include<stdio.h>
 
 int main()
